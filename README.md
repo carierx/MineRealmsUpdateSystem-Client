@@ -1,0 +1,2 @@
+# MineRealmsUpdateSystem-Client
+用于MineRealms自动更新系统
